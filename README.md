@@ -9,16 +9,16 @@ Sou apaixonada por resolver problemas e criar soluções eficientes com código.
 🚀 Minhas Habilidades
 
 
-class Desenvolvedora:
-    def __init__(self):
-        self.linguagens = ["Python", "Java", "JavaScript", "SQL"]
-        self.frameworks = ["Node.js", "React", "django"]
-        self.cloud = ["AWS", "Azure"]
-        self.data_analysis = ["Google Data Analytics", "BI"]
+    class Desenvolvedora:
+        def __init__(self):
+            self.linguagens = ["Python", "Java", "JavaScript", "SQL"]
+            self.frameworks = ["Node.js", "React", "django"]
+            self.cloud = ["AWS", "Azure"]
+            self.data_analysis = ["Google Data Analytics", "BI"]
 
-    def apresentar(self):
-        for habilidade in self.linguagens + self.frameworks + self.cloud + self.data_analysis:
+        def apresentar(self):
+            for habilidade in self.linguagens + self.frameworks + self.cloud + self.data_analysis:
             print(f"Sou experta em {habilidade}!")
 
-giselle = Desenvolvedora()
-giselle.apresentar()
+    giselle = Desenvolvedora()
+    giselle.apresentar()
