@@ -5,7 +5,8 @@ Desenvolvedora Fullstack | Analista de Dados | Entusiasta de IA
 
 
 🌟 Bem-vindo ao meu cantinho do código! 🌟
-Sou apaixonada por resolver problemas e criar soluções eficientes com código. Transitei de uma carreira em desenho técnico para o emocionante mundo da programação e tecnologia. Vamos explorar juntos? 🚀
+Sou apaixonada por resolver problemas e criar soluções eficientes com código. Alterei minha trajetoria profissional de uma carreira em projetista/desenhista técnico para o emocionante mundo da programação e tecnologia. Vamos explorar juntos? 🚀
+
 🚀 Minhas Habilidades
 
 
